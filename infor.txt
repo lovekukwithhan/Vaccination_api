@@ -1,0 +1,6 @@
+-예방접종
+<serviceKey>
+q8glIeFohmlVIqvGgRa3o2CU4jNXrk8DfQPh9n3s87BqBYhjQ0A0qDLCXEFfJ7GTWQHLMh%2F78CWpoTjvBTyLZA%3D%3D
+
+<api site>
+https://nip.cdc.go.kr/irapi/rest/getVcnInfo.do?vcnCd=01&serviceKey=서비스키
